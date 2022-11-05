@@ -28,7 +28,8 @@ body {
   display: flex;
   align-items: flex-end;
   justify-content: end;
-  font-size: 80px;
+  font-size: 72px;
+  padding-right: 5px;
 }
 
 #button-container {
